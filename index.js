@@ -1,4 +1,4 @@
-export default function promisify(fn) {
+module.exports = promisify(fn) {
     return function(params = {}) {
       // console.log(params, "promisify js files")
 

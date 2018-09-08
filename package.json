@@ -1,6 +1,6 @@
 {
   "name": "wx-applets-promisify",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "WeChat applet request module encapsulation",
   "main": "index.js",
   "scripts": {
