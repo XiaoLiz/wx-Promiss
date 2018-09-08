@@ -1,4 +1,4 @@
-module.exports = promisify(fn) {
+module.exports = function(fn) {
     return function(params = {}) {
       // console.log(params, "promisify js files")
 
